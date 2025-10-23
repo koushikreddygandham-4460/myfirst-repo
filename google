@@ -1,0 +1,1 @@
+Setting a Default: The command git config --global init.defaultBranch main (or trunk, development, etc.) will tell Git to automatically name the first branch main (or your chosen name) for all new repositories you create in the future on this server. This stops the warning from appearing again.
