@@ -1,0 +1,1 @@
+Renaming the Current Branch: The command git branch -m main will rename the branch in this specific repository (the one you just initialized in /root/.git/) from master to main.
